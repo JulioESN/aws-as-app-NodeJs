@@ -1,0 +1,8 @@
+{
+  "name": "aws-as-app-nodejs",
+  "version": "1.0.0",
+  "author": "felixyu-23",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
