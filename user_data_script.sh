@@ -16,7 +16,7 @@ sudo yum upgrade
 #install git
 sudo yum install git -y
 cd /home/ec2-user
-# get source code from githubt
+# get source code from githubt de JESN
 git clone https://github.com/JulioESN/aws-as-app-NodeJs
 #get in project dir
 cd aws-as-app-NodeJs
